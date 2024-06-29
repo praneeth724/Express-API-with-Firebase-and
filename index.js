@@ -69,11 +69,3 @@ app.post("/people", (req, res) => {
 
 
 
-
-// app.get("/", (req, res) => {
-//   res.send("Hello World");
-// });
-
-// app.get("/people1", (req, res) => {
-//   res.send("You are getting /people");
-// });
